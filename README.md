@@ -81,4 +81,4 @@ By conducting a comprehensive market analysis, the report aims to provide insigh
 ## Environment and Dependencies
 To complete this project, the only installation you'll need is the latest version of Power BI desktop. 
 
-** This project is part of the Data Analysis and Visualization with Microsoft Power BI Nanodegree program by Udacity. **
+*This project is part of the Data Analysis and Visualization with Microsoft Power BI Nanodegree program by Udacity.*
