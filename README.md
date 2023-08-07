@@ -75,6 +75,8 @@ The national clothing chain is experiencing flat sales and wants to revitalize i
   
 By conducting a comprehensive market analysis, the report aims to provide insights into customer preferences and purchasing behavior, enabling the clothing chain to make data-driven decisions for their marketing strategy. Based on the analysis, recommends the best product to advertise to each customer segment, considering their preferences and potential profitability.
 
+</details>
+
 
 ## Environment and Dependencies
 To complete this project, the only installation you'll need is the latest version of Power BI desktop. 
